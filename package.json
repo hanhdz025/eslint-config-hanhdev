@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-hanhdev",
+  "version": "1.0.0",
+  "description": "A customizable ESLint configuration tailored by Hanhdev, providing consistent coding standards for JavaScript projects.",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": ["eslint", "javascript", "coding standards", "config"],
+  "license": "MIT",
+  "homepage": "https://hanhdev.xyz",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "6.16.0",
+    "@typescript-eslint/parser": "6.16.0",
+    "eslint": "8.56.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-prettier": "5.1.2",
+    "eslint-plugin-unicorn": "50.0.1",
+    "prettier": "3.1.1"
+  }
+}
